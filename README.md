@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou Webster Barboza 👋</h1>
-<h3 align="center">Computer Scientist | Data Analyst | AI & Automation Enthusiast</h3>
+<h1 align="center">Olá, eu sou Webster Barboza </h1>
+<h3 align="center">Ciências da Computação | Analista de Dados | Automação e IA</h3>
 
-## 🚀 Sobre mim
+## Sobre mim
 Sou estudante de Ciência da Computação com foco em Dados, Automação e Inteligência Artificial.
 
 Tenho experiência prática com:
